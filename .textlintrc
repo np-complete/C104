@@ -2,7 +2,9 @@
   "filters": {},
   "rules": {
     "preset-ja-technical-writing": {
-      "ja-no-weak-phrase": false
+      "ja-no-weak-phrase": false,
+      "no-exclamation-question-mark": false,
+      "no-doubled-joshi": false
     },
     "no-todo": true,
     "prh": {
